@@ -1,0 +1,202 @@
+body{
+    margin: 0;
+    font-size: 18;
+    background-image: url("images/portland2.jpg");
+    background-repeat: no-repeat; 
+    background-position:center;
+    background-attachment: fixed;
+}
+a{
+    color: white;
+}
+.main{
+background-image: url("images/mainback.jpg");
+margin-left: 100;
+margin-right: 100;
+border: 5 solid white;
+color:white;
+background-repeat: no-repeat; 
+background-position:center;
+background-attachment: fixed;
+text-align: center;
+padding-top: 5;
+}
+
+.section-title{
+text-align:center;
+font-weight:600;
+font-size: 30;
+text-decoration: underline;
+padding-top: 20;
+padding-bottom: 20;
+font-family: "Garmond";
+
+}
+.name{
+    text-align: center;
+    font-size: 75;
+    font-weight: 200;
+    font-family: "Lucida Sans Unicode";
+    padding-top: 30;
+}
+.whoiam-text{
+    padding-left: 150;
+    padding-right: 150;
+}
+
+.header{
+    font-size: 15;
+    padding-left: 25;
+    text-align: left;
+    word-spacing: 30;
+    padding-bottom: 20;
+    color: white;
+    padding-top: 15;
+}
+
+.header-date{
+    text-align: right;
+    padding-right: 40;
+    float: right;
+}
+
+.education{
+padding-left: 75;
+padding-right: 75;
+padding-bottom: 10;
+}
+
+.education-img{
+    padding-top: 5;
+    padding-bottom: 15;
+}
+
+.army{
+    padding-left: 125;
+    padding-right: 125;
+}
+.unit-patch{
+    padding-top: 20;
+    padding-bottom: 15;
+}
+
+.interest{   
+background-image: url("images/interestbackground.jpg");
+margin-right: 100;
+margin-left: 100;
+border: 5 solid black;
+display: inline-block;
+padding-bottom: 20;
+background-repeat: no-repeat; 
+background-position:center;
+background-attachment: fixed;
+}
+
+.int-image{
+    float: left;
+    padding-left: 125;  
+}
+.husky-img{
+padding-bottom: 20;
+}
+.lcfoot-img{
+padding-bottom: 20;
+}
+.reading-img{
+padding-bottom: 20;
+}
+.outdoors-img{
+padding-bottom: 20;
+}
+.movie-img{
+    padding-bottom: 20;
+}
+.int-text{
+    padding-left: 400;
+    padding-right: 125;
+}
+.huskyfoot-text{
+padding-top: 50;
+padding-bottom: 125;
+}
+.lcfootball-text{
+    padding-left: 75;
+padding-bottom: 130;
+}
+.reading-text{
+padding-bottom: 125;
+}
+.outdoors-text{
+    padding-left: 75;
+padding-bottom: 150;
+}
+.movie-text{
+    padding-left: 75;
+padding-bottom: 100;
+}
+.footer{
+    margin: 0;
+    border: 0;
+    padding-top: 5;
+    text-align: center;
+    color: white;
+
+}
+.footer-text{
+    padding-bottom: 4;
+}
+.jobs-vol{
+background-color: white;
+color: black;
+margin-left: 100;
+margin-right: 100;
+border: 7 solid black;
+background-repeat: no-repeat; 
+background-position:center;
+background-size:85%;
+background-attachment: fixed;
+text-align: center;
+padding-top: 5;
+padding-bottom: 10;
+}
+.work-experience{
+    padding-right: 100;
+    padding-left: 100;
+}
+.volunteer{
+    padding-left: 135;
+    padding-right: 135;
+}
+
+.jspract{
+    text-align: center;
+    color: white;
+}
+
+.monster{
+    padding-top: 50;
+    padding-bottom: 180;
+
+}
+.goblingame{
+color: white;
+}
+
+.database{
+    background-color: white;
+}
+
+.references{
+    background-color: black;
+    color: white;
+margin-left: 100;
+margin-right: 100;
+border: 7 solid white;
+background-repeat: no-repeat; 
+background-position:center;
+background-size:85%;
+background-attachment: fixed;
+text-align: center;
+padding-top: 5;
+padding-bottom: 10;
+}
